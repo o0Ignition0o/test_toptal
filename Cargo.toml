@@ -1,0 +1,9 @@
+[package]
+name = "test_toptal"
+version = "0.1.0"
+authors = ["Ignition"]
+
+[dependencies]
+hyper = "0.10"
+hyper-native-tls = "0.2.4"
+scraper = "0.6"
